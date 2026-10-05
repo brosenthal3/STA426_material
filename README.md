@@ -14,7 +14,7 @@ Monday 11.00-11.45
 
 [Prof. Dr. Mark Robinson](https://robinsonlabuzh.github.io/), Professor of Statistical Genomics, [DMLS](https://www.mls.uzh.ch/en.html), UZH
 
-tba
+[Dr. Pierre-Luc Germain](https://hest.ethz.ch/en/department/people/organisational-units/institute-for-neuroscience/molecular-and-behavioral-neuroscience/persdetail.MjUwODk0.TGlzdC8yOTE3LDM2MjU2OTk1OA==.html), Lecturer, [Department of Health Sciences and Technology](https://hest.ethz.ch/en), ETHZ
 
 ## Schedule
 
@@ -31,8 +31,8 @@ tba
 | 09.11.2026  | Mark | hands-on session #2: RNA-seq |  FASTQC/Salmon/etc. | X | X |
 | 16.11.2026  | Hubert | single-cell 1: preprocessing, dim. red., clustering | clustering | [Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression](https://doi.org/10.1186/s13059-019-1874-1) (BR, LT, ZD) | X |
 | 23.11.2026  | Mark | single-cell 2: clustering, marker gene DE | marker gene DE | X | X |
-| 30.11.2026  | Mark | spatial omics 1 | spatial statistics | X | X  |
-| 07.12.2026  | tba | hands-on session #3: single-cell RNA-seq | full scRNA-seq pipeline | X | X |
+| 30.11.2026  | Pierre-Luc | hands-on session #3: single-cell RNA-seq | full scRNA-seq pipeline | [Efficient differential expression analysis of large-scale single-cell transcriptomics data using Dreamlet](https://www.nature.com/articles/s41467-026-75680-8) (GK, WR) | X |
+| 07.12.2026  | Mark | spatial omics 1 | spatial statistics | X | X  |
 | 14.12.2026  | Mark | spatial omics 2 | structures, DSP | X | X |
 
 
