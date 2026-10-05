@@ -14,7 +14,7 @@ Monday 11.00-11.45
 
 [Prof. Dr. Mark Robinson](https://robinsonlabuzh.github.io/), Professor of Statistical Genomics, [DMLS](https://www.mls.uzh.ch/en.html), UZH
 
-tba
+[Dr. Pierre-Luc Germain](https://hest.ethz.ch/en/department/people/organisational-units/institute-for-neuroscience/molecular-and-behavioral-neuroscience/persdetail.MjUwODk0.TGlzdC8yOTE3LDM2MjU2OTk1OA==.html), Lecturer, [Department of Health Sciences and Technology](https://hest.ethz.ch/en), ETHZ
 
 ## Schedule
 
