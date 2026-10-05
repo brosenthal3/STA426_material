@@ -29,7 +29,7 @@ tba
 | 26.10.2026  | Mark | edgeR+friends 1 | basic edgeR/voom | [scMultiMap: Cell-type-specific mapping of enhancers and target genes from single-cell multimodal data](https://pubmed.ncbi.nlm.nih.gov/40287418/) (MS, TP) | X |
 | 02.11.2026  | Mark | edgeR+friends 2 | advanced edgeR/voom | X | X |
 | 09.11.2026  | Mark | hands-on session #2: RNA-seq |  FASTQC/Salmon/etc. | X | X |
-| 16.11.2026  | Hubert | single-cell 1: preprocessing, dim. red., clustering | clustering | X | X |
+| 16.11.2026  | Hubert | single-cell 1: preprocessing, dim. red., clustering | clustering | [Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression](https://doi.org/10.1186/s13059-019-1874-1) (BR, LT, ZD) | X |
 | 23.11.2026  | Mark | single-cell 2: clustering, marker gene DE | marker gene DE | X | X |
 | 30.11.2026  | Mark | spatial omics 1 | spatial statistics | X | X  |
 | 07.12.2026  | tba | hands-on session #3: single-cell RNA-seq | full scRNA-seq pipeline | X | X |
